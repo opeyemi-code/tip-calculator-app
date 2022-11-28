@@ -120,7 +120,7 @@ button:hover{
 .error-msg{
   position: absolute;
   right: 5px;
-  top: 2px;
+  top: 7px;
   color: goldenrod;
   font-size: 11px;
   display: none;
