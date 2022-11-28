@@ -81,6 +81,7 @@ function reset(e){
   e.preventDefault();
   billField.value = "";
   personField.value = "";
+  customInput.value = "";
   setPercentValue.textContent = '$0.0';
   setTotalPersonTip.textContent = '$0.0';
   
